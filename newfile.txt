@@ -1,11 +1,8 @@
-This is new file
-This is local repo
-line3 remote change
-line4 remote change
-line5 remote change
-line6 remote change
-line7 remote change 
-line8 remote change
-line9 remote change
-line10 remote change
-
+line1 remote
+line2 remote
+line3 remote
+line4 remote
+line5 remote
+line6 remote
+line7 remote
+line8 remote
