@@ -1,8 +1,8 @@
-line1 local1
-line2 local1
-line3 local1
-line4 local1
-line5 local1
-line6 local1
-line7 local1
-line8 local1
+line1 remote
+line2 remote
+line3 remote
+line4 remote
+line5 remote
+line6 remote
+line7 remote
+line8 remote
